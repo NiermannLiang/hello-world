@@ -1,2 +1,1 @@
-# hello-world
-hello-world
+it is my first time to code in here.
